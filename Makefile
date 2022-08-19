@@ -9,4 +9,4 @@ build:
 
 	rm -rf ./swtpm-build
 
-	docker run swtpmbuild &
+	docker run swtpmbuild
